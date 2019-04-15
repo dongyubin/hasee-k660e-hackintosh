@@ -6,9 +6,8 @@ mac软件下载地址推荐，从此下载不迷茫
 #### 不如试试下面这几个网站，包你以后下载，再也不用浪费太多的时间了。
 #### 并且这几个网站里面的软件都是免费的，再也不用担心囊中羞涩了。
 
-1. [mac-torrents](http://mac-torrents.com/)
-2. [潮下载](http://www.chaoxz.com/)
-3. [xclient](https://xclient.info/)
-4. [马可菠萝](https://www.macbl.com/)
-5. [系统天堂](https://www.xpgod.com/mac/)
-6. [mac萌新网](https://www.macxin.com/)
+1. [潮下载](http://www.chaoxz.com/)
+2. [xclient](https://xclient.info/)
+3. [马可菠萝](https://www.macbl.com/)
+4. [系统天堂](https://www.xpgod.com/mac/)
+5. [mac萌新网](https://www.macxin.com/)
