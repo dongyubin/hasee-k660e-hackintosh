@@ -22,3 +22,7 @@
 ### 安装教程
 
 [神舟战神安装教程](https://chengxuxiaohei.cn/zs-mac-anzhuang.html)
+
+### 下载地址
+
+[蓝奏网盘](https://www.lanzous.com/b073fvkkh)   密码:cx5w
