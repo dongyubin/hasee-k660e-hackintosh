@@ -222,7 +222,7 @@
 		<key>#DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Arguments</key>
-		<string>dart=0 nv_disable=1 -alcoff kext-dev-mode=1 debug=0x100</string>
+		<string>dart=0 nv_disable=1 -alcoff kext-dev-mode=1 debug=0x100 -no_compat_check</string>
 		<key>DefaultVolume</key>
 		<string>MACOS</string>
 		<key>Legacy</key>
@@ -990,7 +990,7 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>#ProductName-MacBookAir</key>
-		<string>MacBookAir6,2</string>
+		<string>MacBookPro14,3</string>
 		<key>BiosReleaseDate</key>
 		<string>09/17/2018</string>
 		<key>BiosVendor</key>
