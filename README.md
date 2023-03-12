@@ -1,5 +1,7 @@
 ### NUC 6I7KYK的EFI
 
+[0066 Bios文件](https://drivers.softpedia.com/get/BIOS/Intel/Intel-NUC6i7KYK-NUC-Kit-BIOS-0066.shtml)
+
 [机型参数](http://detail.zol.com.cn/1212/1211213/param.shtml)
 
 #### 此EFI适用于最新系统的Mac Catalina 10.15.2
